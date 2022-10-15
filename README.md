@@ -12,11 +12,13 @@ Mayank Vashisht
 
 [Project Charter](https://github.com/khavrks/Capstone_R2D2_reunited/blob/main/Documentation/R2D2's%20Project%20Charter.docx)
 
-[RACI Char](https://github.com/khavrks/Capstone_R2D2_reunited/blob/main/Documentation/R2D2's%20RACI%20Chart%20(Updated).docx)
+[RACI Chart](https://github.com/khavrks/Capstone_R2D2_reunited/blob/main/Documentation/R2D2's%20RACI%20Chart%20(Updated).docx)
 
 [Stakeholder Ananlysis](https://github.com/khavrks/Capstone_R2D2_reunited/blob/main/Documentation/R2D2's%20Stakeholder%20Analysis.docx)
 
 [Business Case](https://github.com/khavrks/Capstone_R2D2_reunited/blob/main/Documentation/R2D2s%20Reunited's%20Business%20Case.docx)
+
+[ERD](https://github.com/R2D2-reunited/Capstone_R2D2_GOAT-s/blob/main/Documentation/ERD%20Updated%201.pdf)
 ## Commits
 Nikita - Initial Commit - September 10, 2022
 
