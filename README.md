@@ -8,6 +8,8 @@ Nisrag Shah
 
 Mayank Vashisht
 ## Documentation
+[HiFi Protypes](https://www.figma.com/file/01h4M9gR5Kma55OKt6IKR8/Main-flow?node-id=0%3A1&t=bBKFmBpPIo1h74DP-1)
+
 [Kanban Board](https://trello.com/invite/b/tKye6Y4b/937651087bfdb46f3234beac003e7a32/kanban-template)
 
 [Project Charter](https://github.com/khavrks/Capstone_R2D2_reunited/blob/main/Documentation/R2D2's%20Project%20Charter.docx)
