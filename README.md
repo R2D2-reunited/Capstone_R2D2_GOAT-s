@@ -17,14 +17,14 @@ One of the fastest upcoming forms of media is live streaming. We plan to build a
 
 ## Vlogs
 First Half (ENSE-400)
-- (https://www.youtube.com/watch?v=ySCMK_X2kSI)[Vlog 1] 
-- (https://www.youtube.com/watch?v=exxFPSQBN8A)[Vlog 2]
-- (https://www.youtube.com/watch?v=YQZZ8GMOSbo)[Vlog 3]
+- [Vlog 1](https://www.youtube.com/watch?v=ySCMK_X2kSI)
+- [Vlog 2](https://www.youtube.com/watch?v=exxFPSQBN8A)
+- [Vlog 3](https://www.youtube.com/watch?v=YQZZ8GMOSbo)
 
 Second Half (ENSE-477)
-- (https://www.youtube.com/watch?v=cDf5_acQg-8)[Vlog 4] 
-- (https://www.youtube.com/watch?v=57lo3tUD2xU)[Vlog 5]
-- (https://www.youtube.com/watch?v=Z3nGbpXTjcM)[Vlog 6]
+- [Vlog 4](https://www.youtube.com/watch?v=cDf5_acQg-8)
+- [Vlog 5](https://www.youtube.com/watch?v=57lo3tUD2xU)
+- [Vlog 6](https://www.youtube.com/watch?v=Z3nGbpXTjcM)
 
 ## Documentation
 [HiFi Protypes](https://www.figma.com/file/01h4M9gR5Kma55OKt6IKR8/Main-flow?node-id=0%3A1&t=bBKFmBpPIo1h74DP-1)
