@@ -41,3 +41,5 @@ Second Half (ENSE-477)
 
 [ERD](https://github.com/R2D2-reunited/Capstone_R2D2_GOAT-s/blob/main/Documentation/ERD%20Updated%201.pdf)
 
+## Acknowledgements
+We would like to thank Dr. Tim Maciag, Dr. Craig Gelowitz, and Dr. Kin-Chong Yow - Dr. Maciag for presiding over a capstone project to remember, and Dr. Gelowitz and Dr. Yow for all the guidance and expertise that they provided despite not being our assigned mentors. We would also like to thank Dr. Yasser Morgan for being our mentor even though our project wasn’t really in his area of expertise. We wish him a happy retirement too.
